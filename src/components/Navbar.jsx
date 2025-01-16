@@ -12,16 +12,19 @@ const Navbar = () => {
   const handleLinkClick = (e, href) => {
     e.preventDefault();
     const targetElement = document.querySelector(href);
+  
     if (targetElement) {
-      const offset = -85;
+      const headerOffset = 85; // Offset to adjust for fixed navbar
       const elementPosition = targetElement.getBoundingClientRect().top;
-      const offsetPosition = elementPosition + window.scrollY + offset;
-
+      const offsetPosition = elementPosition + window.scrollY - headerOffset;
+  
       window.scrollTo({
         top: offsetPosition,
-        behavior: "smooth",
+        behavior: "smooth", // Ensures smooth scrolling
       });
     }
+  
+    // Close mobile menu if it's open
     setIsMobileMenuOpen(false);
   };
 
