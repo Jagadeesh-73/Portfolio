@@ -109,7 +109,7 @@ export const PROJECTS = [
 
 
 export const BIO = [
-  "A dedicated Full Stack Developer with nearly 6.5 years of experience in software development, specializing in Java and JavaScript technologies across Healthcare, Financial, and Retail domains.",
+  "A dedicated Full Stack Developer with around 7 years of experience in software development, specializing in Java and JavaScript technologies across Healthcare, Financial, and Retail domains.",
   "Proficient in designing and developing scalable, secure, and efficient applications using Java, Spring Boot, ReactJS, and microservices architecture.",
   "Expertise in modern frontend frameworks like React and Vue.js, combined with backend technologies such as Spring MVC, Spring Security, Hibernate, and RESTful APIs.",
   "Skilled in leveraging AWS services (EC2, S3, RDS, Lambda) and implementing containerized deployments using Docker and Kubernetes for cloud-native solutions.",
