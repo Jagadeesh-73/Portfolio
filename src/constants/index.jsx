@@ -15,6 +15,7 @@ import {
   FaAws,
   FaDocker,
   FaJenkins,
+  FaMicrosoft,
 } from "react-icons/fa";
 import {
   SiJavascript,
@@ -155,6 +156,7 @@ export const SKILLS = [
       { icon: <SiKubernetes className="text-4xl text-blue-600 lg:text-5xl" />, name: "Kubernetes" },
       { icon: <FaAws className="text-4xl text-orange-600 lg:text-5xl" />, name: "AWS" },
       { icon: <FaJenkins className="text-4xl text-red-600 lg:text-5xl" />, name: "Jenkins" },
+      { icon: <FaMicrosoft className="text-4xl text-blue-700 lg:text-5xl" />, name: "Azure" },
     ],
   },
 ];
