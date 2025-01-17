@@ -20,7 +20,7 @@ const Navbar = () => {
   
       window.scrollTo({
         top: offsetPosition,
-        behavior: "smooth", // Ensures smooth scrolling
+        behavior: "smooth", 
       });
     }
   
