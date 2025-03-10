@@ -165,7 +165,7 @@ export const EXPERIENCES = [
   {
     client: "Premera Blue Cross - Bellevue, WA, USA",
     duration: "April 2023 - Present",
-    role: "Software Developer",
+    role: "Sr Full Stack Developer",
     description:
       "Designed and developed a microservices-based healthcare platform using Spring Boot for secure and scalable transaction processing, including claims management and real-time member notifications. " +
       "Built dynamic and responsive front-end interfaces with ReactJS, leveraging React Hooks, Context API, and Redux for state management. " +
@@ -218,7 +218,7 @@ export const EDUCATION = [
 
 export const SOCIAL_MEDIA_LINKS = [
   { href: "https://github.com", icon: <FaGithub fontSize={25} className="hover:opacity-80" /> },
-  { href: "https://www.linkedin.com/in/jagadeeshwar-reddy-jillala-38a484346/", icon: <FaLinkedin fontSize={25} className="hover:opacity-80" /> },
+  { href: "www.linkedin.com/in/jagadeeshwar-reddy-j-38a484346", icon: <FaLinkedin fontSize={25} className="hover:opacity-80" /> },
   {
     href: "https://medium.com/@jillala2020", 
     icon: <AiOutlineMedium fontSize={25} className="hover:opacity-80" />,
