@@ -110,7 +110,7 @@ export const PROJECTS = [
 
 
 export const BIO = [
-  "A dedicated Full Stack Developer with around 7 years of experience in software development, specializing in Java and JavaScript technologies across Healthcare, Financial, and Retail domains.",
+  "A dedicated Software Developer with around 7 years of experience in software development, specializing in Java and JavaScript technologies across Healthcare, Financial, and Retail domains.",
   "Proficient in designing and developing scalable, secure, and efficient applications using Java, Spring Boot, ReactJS, and microservices architecture.",
   "Expertise in modern frontend frameworks like React and Vue.js, combined with backend technologies such as Spring MVC, Spring Security, Hibernate, and RESTful APIs.",
   "Skilled in leveraging AWS services (EC2, S3, RDS, Lambda) and implementing containerized deployments using Docker and Kubernetes for cloud-native solutions.",
@@ -165,7 +165,7 @@ export const EXPERIENCES = [
   {
     client: "Premera Blue Cross - Bellevue, WA, USA",
     duration: "April 2023 - Present",
-    role: "Sr Full Stack Developer",
+    role: "Full Stack  Java Developer",
     description:
       "Designed and developed a microservices-based healthcare platform using Spring Boot for secure and scalable transaction processing, including claims management and real-time member notifications. " +
       "Built dynamic and responsive front-end interfaces with ReactJS, leveraging React Hooks, Context API, and Redux for state management. " +
